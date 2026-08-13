@@ -1,1 +1,0 @@
-print("Re-entry simulator starting...")
